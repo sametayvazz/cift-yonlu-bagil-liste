@@ -1,0 +1,30 @@
+C:\Users\cemay\source\repos\bağıl liste\bağıl liste\bin\Debug\bağıl liste.exe.config
+C:\Users\cemay\source\repos\bağıl liste\bağıl liste\bin\Debug\bağıl liste.exe
+C:\Users\cemay\source\repos\bağıl liste\bağıl liste\bin\Debug\bağıl liste.pdb
+C:\Users\cemay\source\repos\bağıl liste\bağıl liste\obj\Debug\bağıl liste.csprojAssemblyReference.cache
+C:\Users\cemay\source\repos\bağıl liste\bağıl liste\obj\Debug\bağıl_liste.Form1.resources
+C:\Users\cemay\source\repos\bağıl liste\bağıl liste\obj\Debug\bağıl_liste.Properties.Resources.resources
+C:\Users\cemay\source\repos\bağıl liste\bağıl liste\obj\Debug\bağıl liste.csproj.GenerateResource.cache
+C:\Users\cemay\source\repos\bağıl liste\bağıl liste\obj\Debug\bağıl liste.csproj.CoreCompileInputs.cache
+C:\Users\cemay\source\repos\bağıl liste\bağıl liste\obj\Debug\bağıl liste.exe
+C:\Users\cemay\source\repos\bağıl liste\bağıl liste\obj\Debug\bağıl liste.pdb
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\bağıl liste\bağıl liste\bin\Debug\bağıl liste.exe.config
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\bağıl liste\bağıl liste\bin\Debug\bağıl liste.exe
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\bağıl liste\bağıl liste\bin\Debug\bağıl liste.pdb
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\bağıl liste\bağıl liste\obj\Debug\bağıl liste.csprojAssemblyReference.cache
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\bağıl liste\bağıl liste\obj\Debug\bağıl_liste.Form1.resources
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\bağıl liste\bağıl liste\obj\Debug\bağıl_liste.Properties.Resources.resources
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\bağıl liste\bağıl liste\obj\Debug\bağıl liste.csproj.GenerateResource.cache
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\bağıl liste\bağıl liste\obj\Debug\bağıl liste.csproj.CoreCompileInputs.cache
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\bağıl liste\bağıl liste\obj\Debug\bağıl liste.exe
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\bağıl liste\bağıl liste\obj\Debug\bağıl liste.pdb
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\çift yönlü\bağıl liste\bin\Debug\bağıl liste.exe.config
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\çift yönlü\bağıl liste\bin\Debug\bağıl liste.exe
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\çift yönlü\bağıl liste\bin\Debug\bağıl liste.pdb
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\çift yönlü\bağıl liste\obj\Debug\bağıl liste.csprojAssemblyReference.cache
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\çift yönlü\bağıl liste\obj\Debug\bağıl_liste.Form1.resources
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\çift yönlü\bağıl liste\obj\Debug\bağıl_liste.Properties.Resources.resources
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\çift yönlü\bağıl liste\obj\Debug\bağıl liste.csproj.GenerateResource.cache
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\çift yönlü\bağıl liste\obj\Debug\bağıl liste.csproj.CoreCompileInputs.cache
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\çift yönlü\bağıl liste\obj\Debug\bağıl liste.exe
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\çift yönlü\bağıl liste\obj\Debug\bağıl liste.pdb
